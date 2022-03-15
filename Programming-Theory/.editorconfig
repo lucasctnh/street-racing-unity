@@ -1,0 +1,7 @@
+[*.{cs,vb}]
+
+# IDE0051 Private member is unused.
+dotnet_diagnostic.IDE0044.severity = none
+dotnet_diagnostic.IDE0047.severity = none
+dotnet_diagnostic.IDE0051.severity = none
+dotnet_diagnostic.IDE0090.severity = none
