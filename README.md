@@ -1,7 +1,7 @@
 # Street Racing - Unity Game
-![Game Image](https://github.com/lcscout/Street-Racing-Unity/blob/main/SR-Gif.gif "Game Gif")
+![Game Gif](https://github.com/lcscout/street-racing-unity/blob/main/SR-Gif_Compressed.gif "Game Gif")
 
-Open sourced under the [MIT license](https://github.com/lcscout/Programming-Theory-JRPP/blob/main/LICENSE).
+Open sourced under the [MIT license](https://github.com/lcscout/street-racing-unity/blob/main/LICENSE).
 
 ## What is it about
 This is a racing game where you try to beat your own time, this is a submission project for the Unity course: [Junior Programmer](https://learn.unity.com/pathway/junior-programmer).
