@@ -18,3 +18,6 @@ The **unmodified** game assets are available for free at the [Unity Asset Store]
 
 ## Requirements
 This project requires [Unity3D](https://unity.com/) (2020.3+) to build and run. Clone this repository and open the Programming-Theory folder in Unity.
+
+## Credits
+Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.me). Open sourced under the [MIT](https://github.com/lcscout/street-racing-unity/blob/main/LICENSE) license ❤️.
