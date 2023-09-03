@@ -6,6 +6,8 @@ Open sourced under the [MIT license](https://github.com/lcscout/street-racing-un
 ## What is it about
 This is a racing game where you try to beat your own time, this is a submission project for the Unity course: [Junior Programmer](https://learn.unity.com/pathway/junior-programmer).
 
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/streetracing).
+
 ## Play the game
 Only the [WebGL](https://get.webgl.org/) build is available, you can play it online [here](https://play.unity.com/mg/other/builds-cl-1).
 
