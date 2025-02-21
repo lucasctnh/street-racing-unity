@@ -6,10 +6,10 @@ Open sourced under the [MIT license](https://github.com/lcscout/street-racing-un
 ## What is it about
 This is a racing game where you try to beat your own time, this is a submission project for the Unity course: [Junior Programmer](https://learn.unity.com/pathway/junior-programmer).
 
-If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.me/projects/streetracing).
+If you'd like to know more about the project and the development process, check it's [page on my website](https://lucascoutinho.dev/projects/street-racing).
 
 ## Play the game
-Only the [WebGL](https://get.webgl.org/) build is available, you can play it online [here](https://play.unity.com/mg/other/builds-cl-1).
+Only the [WebGL](https://get.webgl.org/) build is available, you can play it online [here]([https://play.unity.com/mg/other/builds-cl-1](https://play.unity.com/pt/games/fac255fe-31fa-47a7-8b3a-b4de448346b4/street-racing)).
 
 ## Credits
 The **unmodified** game assets are available for free at the [Unity Asset Store](https://assetstore.unity.com/), in particular,
@@ -20,4 +20,4 @@ The **unmodified** game assets are available for free at the [Unity Asset Store]
 This project requires [Unity3D](https://unity.com/) (2020.3+) to build and run. Clone this repository and open the Programming-Theory folder in Unity.
 
 ## Credits
-Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.me). Open sourced under the [MIT](https://github.com/lcscout/street-racing-unity/blob/main/LICENSE) license ❤️.
+Created, designed, and developed by [Lucas Coutinho](https://lucascoutinho.dev). Open sourced under the [MIT](https://github.com/lcscout/street-racing-unity/blob/main/LICENSE) license ❤️.
